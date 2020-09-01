@@ -15,7 +15,7 @@
     "react-scripts": "3.4.3",
     "typescript": "^3.7.5"
   },
-  "homepage": "http://s1r-J.github.io/react-github-pages",
+  "homepage": "http://s1r-j.github.io/react-github-pages",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
